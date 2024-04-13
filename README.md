@@ -12,7 +12,7 @@ A Budding data scientist passionate about turning raw data into meaningful stori
 
 Some of the tools I use:
 
-[![My Skills](https://skillicons.dev/icons?i=python,anaconda,MySQL,docker,git,github,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,anaconda,mysql,docker,git,github,)](https://skillicons.dev)
 
 
 ## Latest Articles
