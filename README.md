@@ -6,19 +6,23 @@ A Budding data scientist passionate about turning raw data into meaningful stori
 
 
 - 🌱 I’m currently learning Data Science and Artificial Intelligence.
-- 👯 I’m looking to collaborate on Data based projects in diverse sectors.
+- 👯 I’m looking to collaborate on data-driven projects in diverse sectors.
 - 💬 Ask me about Writing, Data Science.
 
 
 Some of the tools I use:
 
-[![My Skills](https://skillicons.dev/icons?i=python,anaconda,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,anaconda,MySQL,docker,git,github,)](https://skillicons.dev)
 
 
 ## Latest Articles
 - [Budget Tracker Program - OOP](https://medium.com/@ipayeislamiat/budget-tracker-program-oop-ffd9223a620b)
 
 - [Analysis of Road Accidents in Nigeria](https://medium.com/@ipayeislamiat/analysis-of-road-accidents-in-nigeria-7c498ad96d0c)
+
+- [Bike Purchase Analysis Using Excel](https://medium.com/@ipayeislamiat/bike-purchase-analysis-using-excel-3e99ac955019)
+
+- [Emergency Room Visits Analysis Using PowerBI](https://medium.com/@ipayeislamiat/emergency-room-visits-analysis-using-power-bi-8858c3fd4a73)
 
 
 
