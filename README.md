@@ -1,11 +1,11 @@
 ## Hi there, I am Islamiat Ipaye 👋
-A Budding data scientist passionate about turning raw data into meaningful stories. Join me in exploring the fascinating world where numbers meet narratives. something like these? thats my medium bio
+A Budding data professional passionate about turning raw data into meaningful stories. Join me in exploring the fascinating world where numbers meet narratives. something like these? that's my medium bio
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/TheData_Lady?color=%231DA1F2&label=Follow%20%40TheData_Lady&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=TheData_Lady)
 [![Linkedin Connect](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islamiat-ipaye-/)
 
-
-- 🌱 I’m currently learning Data Science and Artificial Intelligence.
+- 👩‍💻 I have a background in data science.
+- 🌱 I’m currently learning Data engineering.
 - 👯 I’m looking to collaborate on data-driven projects in diverse sectors.
 - 💬 Ask me about Writing, Data Science.
 
