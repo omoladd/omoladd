@@ -7,7 +7,8 @@ A Budding data professional passionate about turning raw data into meaningful st
 - 👩‍💻 I have a background in data science.
 - 🌱 I’m currently learning Data engineering.
 - 👯 I’m looking to collaborate on data-driven projects in diverse sectors.
-- 💬 Ask me about Writing, Data Science.
+- 💬 Ask me about Writing, Data.
+- 📫 You can view [my portfolio](https://omoladd.github.io/portfolio/) and contact me via ipayeislamiat@gmail.com
 
 
 Some of the tools I use:
